@@ -28,3 +28,4 @@ group_id	INT,
 account_id	VARCHAR(20),
 join_date	DATE
 );
+
